@@ -1,0 +1,9 @@
+xcuserdata
+Pods
+Gemfile.lock
+build/
+tmp/
+.DS_Store
+.idea/
+.gradle/
+lint.html
